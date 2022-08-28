@@ -27,11 +27,9 @@ const DrEureka = {
 - Java
 - PHP
 #
-
 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/ramadandaniel/) 
-
 
 <!--
 **DrEureka/dreureka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
