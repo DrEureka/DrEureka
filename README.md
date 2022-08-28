@@ -19,7 +19,7 @@ const DrEureka = {
 };
 ```
 #
-- 🌱 I’m currently learning:
+🌱 I’m currently learning:
 
 - first year in software development career.
 - Dart.
@@ -28,7 +28,7 @@ const DrEureka = {
 - PHP
 #
 
-- 📫 How to reach me:
+📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/ramadandaniel/) 
 
