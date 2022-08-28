@@ -22,8 +22,10 @@ const DrEureka = {
 - 🌱 I’m currently learning:
 
 - first year in software development career.
-- Flutter.
+- Dart.
 - Python.
+- Java
+- PHP
 #
 
 - 📫 How to reach me:
