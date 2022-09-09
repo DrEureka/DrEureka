@@ -2,7 +2,7 @@
 
 
 ```javascript
-const DrEureka = {
+const DanielRamadan = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Java", "PHP", "Flutter", "HTML", "CSS", "DART"],
     askMeAbout: ["web dev", "tech", "app dev", "3d designer", "photographer", "graphic designer", "audiovisual designer"],
