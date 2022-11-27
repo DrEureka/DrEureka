@@ -13,7 +13,7 @@ const DanielRamadan = {
             php: ["Symfony", "Laravel"],
             Java: ["Spring"],
         },
-        databases: ["mongo", "MySql", "Oracle"],
+        databases: ["Mongodb", "MySql", "Oracle"],
     },
 };
 ```
