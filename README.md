@@ -23,5 +23,5 @@ const DanielRamadan = {<br>    pronouns: "He" | "Him",<br>    code: ["Javascript
 - PHP
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DrEureka&icon=3&color=8)](https://visitcount.itsvg.in)
+
 
