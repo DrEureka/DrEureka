@@ -1,5 +1,5 @@
 # 💫 About Me:
-const DanielRamadan = {<br>    pronouns: "He" | "Him",<br>    code: ["Javascript", "Java", "PHP", "Flutter", "HTML", "CSS", "DART"],<br>    askMeAbout: ["web dev", "tech", "app dev", "3d designer", "photographer", "graphic designer", "audiovisual designer"],<br>    technologies: {<br>       Flutter: ["Dart"],<br>       Moodle: ["PHP"],<br>       backEnd: {<br>            php: ["Symfony", "Laravel"],<br>            Java: ["Spring"],<br>        },<br>        databases: {<br>["Mongodb", "MySql", "Oracle"],<br>    },<br>};
+const DanielRamadan = {<br>    pronouns: "He" | "Him",<br>    code: ["Javascript", "Java", "PHP", "Flutter", "HTML", "CSS", "DART"],<br>    askMeAbout: ["web dev", "tech", "app dev", "3d designer", "photographer", "graphic designer", "audiovisual designer"],<br>    technologies: {<br>       Flutter: ["Dart"],<br>       Moodle: ["PHP"],<br>       backEnd: {<br>            php: ["Symfony"],<br>            Java: ["Spring"],<br>        },<br>        databases: {<br>["Mongodb", "MySql", "Oracle"],<br>    },<br>};
 
 
 ## 🌐 Socials:
